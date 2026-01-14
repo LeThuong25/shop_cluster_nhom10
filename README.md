@@ -1,2 +1,1 @@
-# shop_cluster_nhom10
-Mini-Project: Phân cụm khách hàng từ Luật kết hợp
+# Third part of case study: Shopping Cart Analysis
